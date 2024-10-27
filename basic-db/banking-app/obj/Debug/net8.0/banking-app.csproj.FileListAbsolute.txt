@@ -1,0 +1,14 @@
+C:\anton\programming\dotnet\basic-db\banking-app\bin\Debug\net8.0\banking-app.exe
+C:\anton\programming\dotnet\basic-db\banking-app\bin\Debug\net8.0\banking-app.deps.json
+C:\anton\programming\dotnet\basic-db\banking-app\bin\Debug\net8.0\banking-app.runtimeconfig.json
+C:\anton\programming\dotnet\basic-db\banking-app\bin\Debug\net8.0\banking-app.dll
+C:\anton\programming\dotnet\basic-db\banking-app\bin\Debug\net8.0\banking-app.pdb
+C:\anton\programming\dotnet\basic-db\banking-app\obj\Debug\net8.0\banking-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\programming\dotnet\basic-db\banking-app\obj\Debug\net8.0\banking-app.AssemblyInfoInputs.cache
+C:\anton\programming\dotnet\basic-db\banking-app\obj\Debug\net8.0\banking-app.AssemblyInfo.cs
+C:\anton\programming\dotnet\basic-db\banking-app\obj\Debug\net8.0\banking-app.csproj.CoreCompileInputs.cache
+C:\anton\programming\dotnet\basic-db\banking-app\obj\Debug\net8.0\banking-app.dll
+C:\anton\programming\dotnet\basic-db\banking-app\obj\Debug\net8.0\refint\banking-app.dll
+C:\anton\programming\dotnet\basic-db\banking-app\obj\Debug\net8.0\banking-app.pdb
+C:\anton\programming\dotnet\basic-db\banking-app\obj\Debug\net8.0\banking-app.genruntimeconfig.cache
+C:\anton\programming\dotnet\basic-db\banking-app\obj\Debug\net8.0\ref\banking-app.dll
